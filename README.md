@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,55:5C0A12,100:E11D2E&height=220&section=header&text=Sai%20Baba&fontSize=72&fontColor=F2F2F0&fontAlignY=36&desc=builds%20apps%20%C2%B7%20edits%20videos%20%C2%B7%20ships%20fast&descSize=18&descAlignY=56&descColor=F2F2F0&animation=fadeIn" alt="Sai Baba: builds apps, edits videos, ships fast" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,55:5C0A12,100:E11D2E&height=220&section=header&text=Nagi%20Reddy%20SaiBaba&fontSize=60&fontColor=F2F2F0&fontAlignY=35&desc=aka%20NSB%20%C2%B7%20builds%20apps%20%C2%B7%20edits%20videos%20%C2%B7%20ships%20fast&descSize=18&descAlignY=55&descColor=F2F2F0&animation=fadeIn" alt="Nagi Reddy SaiBaba, aka NSB: builds apps, edits videos, ships fast" width="100%">
 </p>
 
-<h1 align="center">Hey there, I'm Sai Baba 👋</h1>
+<h1 align="center">Hey there, I'm NSB 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=E11D2E&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Desktop+App+Builder;Video+Editor+%26+YouTuber;Ship+first.+Polish+after." alt="Full-Stack Developer, Desktop App Builder, Video Editor & YouTuber. Ship first, polish after.">
@@ -68,6 +68,10 @@
   <a href="https://www.linkedin.com/in/sai-baba-nagi-reddy-02257836a/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/nsbforever_7/"><img src="https://img.shields.io/badge/Instagram-0A0A0C?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
   <a href="https://www.youtube.com/@nsbforever"><img src="https://img.shields.io/badge/YouTube-0A0A0C?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
+  <a href="mailto:nagireddysaibaba321@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0C?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail: nagireddysaibaba321@gmail.com"></a>
+</p>
+
+<p align="center">📧 <a href="mailto:nagireddysaibaba321@gmail.com">nagireddysaibaba321@gmail.com</a>
 </p>
 
 <p align="center">See you in the next commit, or the next video 🎬</p>
