@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,55:5C0A12,100:E11D2E&height=220&section=header&text=Nagi%20Reddy%20SaiBaba&fontSize=60&fontColor=F2F2F0&fontAlignY=35&desc=aka%20NSB%20%C2%B7%20builds%20apps%20%C2%B7%20edits%20videos%20%C2%B7%20ships%20fast&descSize=18&descAlignY=55&descColor=F2F2F0&animation=fadeIn" alt="Nagi Reddy SaiBaba, aka NSB: builds apps, edits videos, ships fast" width="100%">
+  <img src="assets/banner.svg" alt="Nagi Reddy SaiBaba, aka NSB: builds apps, edits videos, ships fast" width="100%">
 </p>
 
 <h1 align="center">Hey there, I'm NSB 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=E11D2E&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Desktop+App+Builder;Video+Editor+%26+YouTuber;Ship+first.+Polish+after." alt="Full-Stack Developer, Desktop App Builder, Video Editor & YouTuber. Ship first, polish after.">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=3000&pause=900&color=E11D2E&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Desktop+App+Builder;Video+Editor+%26+YouTuber;Ship+first.+Polish+after." alt="Full-Stack Developer, Desktop App Builder, Video Editor & YouTuber. Ship first, polish after.">
 </p>
 
 <p align="center">
