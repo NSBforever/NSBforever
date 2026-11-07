@@ -71,9 +71,6 @@
   <a href="mailto:nagireddysaibaba321@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0C?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail: nagireddysaibaba321@gmail.com"></a>
 </p>
 
-<p align="center">📧 <a href="mailto:nagireddysaibaba321@gmail.com">nagireddysaibaba321@gmail.com</a>
-</p>
-
 <p align="center">See you in the next commit, or the next video 🎬</p>
 
 <p align="center">
